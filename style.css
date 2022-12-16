@@ -1,0 +1,38 @@
+html{
+    background-color: rgba(21, 70, 177, 0.233);
+}
+
+h1{
+    color: rgba(180, 30, 20, 0.726);
+    font-family: fantasy;
+}
+
+h2{
+    color:rgba(245, 241, 1, 0.856);
+}
+
+h3{
+    color: chocolate;
+    font-family: sans-serif;
+}
+
+p{
+    color: rgb(43, 217, 223);
+    font-family: monospace;
+
+}
+
+.one{
+    color: blue;
+    font-size: 50%;
+}
+
+.two{
+    color: rgb(185, 15, 134);
+    font-size: 100%;
+}
+
+.three{
+    color: rgb(255, 0, 34);
+    font-size: 150%;
+}
